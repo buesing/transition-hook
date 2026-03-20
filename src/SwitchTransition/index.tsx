@@ -1,3 +1,5 @@
+import React from 'react';
+
 import {Stage, useSwitchTransition} from '..';
 import {Mode} from '../useSwitchTransition/types';
 

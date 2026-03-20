@@ -1,4 +1,4 @@
-import {Fragment, useEffect, useRef, useState} from 'react';
+import React, {Fragment, useEffect, useRef, useState} from 'react';
 
 import {Stage} from '..';
 import {insertArray} from '../helpers/insertArray';

@@ -1,3 +1,5 @@
+import React from 'react';
+
 import {Stage, useTransition} from '..';
 
 type TransitionProps = {

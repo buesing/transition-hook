@@ -35,8 +35,8 @@
     "semantic-release": "semantic-release"
   },
   "peerDependencies": {
-    "react": "^16.8.0  || ^17.0.0",
-    "react-dom": "^16.8.0  || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
@@ -44,7 +44,7 @@
     "@qhlab/eslint-plugin": "^1.10.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "@types/react": "^17.0.37",
+    "@types/react": "^19.0.0",
     "conventional-changelog-conventionalcommits": "^4.6.1",
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^8.3.0",
